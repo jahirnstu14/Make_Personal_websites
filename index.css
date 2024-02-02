@@ -1,0 +1,33 @@
+.footer_container{
+    padding: 30px opx 4opx 0px;
+    background: #fafbfc;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+}
+
+.footer_column{
+    display:flex;
+    flex-direction: column;
+}
+
+.footer_column h3{
+    color: #282c3f;
+    font-size: 14px;
+    margin-bottom: 25px;
+
+}
+
+.footer_column a{
+    text-decoration: none;
+    color: #696b79;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.copyright{
+    color: #94969f;
+    text-align: end;
+    padding: 15px;
+
+}
